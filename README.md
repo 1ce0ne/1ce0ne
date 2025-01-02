@@ -1,85 +1,67 @@
-# Hello 👋
+# Привет, я I'm I1ce0ne! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img height="300" width="700" alt="anime-gif" align="center" src="https://cdn.discordapp.com/attachments/849472469366436965/1027482670497469440/anime-gif.gif">
 </div>
 
 </br>
 </br>
 </br>
 
+# О себе 💬
+### Я 16-летний разработчик Desktop приложений и Telegram ботов из России!
 
-# About ME 💬 :
+<img height="400" width="500" alt="anime-programming" align="right" src="https://cdn.discordapp.com/attachments/849472469366436965/1027482710404447390/anime-programming.gif">
 
-### - I'm 16 years  a young programmer of Desktop applications and Telegram bots from Russia
+### Изучаю:
+- 🌐 HTML и CSS
+- 🐍 Python (с библиотеками MySQL и PyQt6)
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+### Увлечения: 
+- 🎮 Игры
+- 🏋️ Пауэрлифтинг
+- 🌍 Путешествия
 
 </br>
 </br>
 </br>
 
-
-
-# Languages & Tools 👨‍💻 🛠:
+# Языки и инструменты 🛠️:
 </br>
-
 <p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/python-2831211-2352151.png" alt="python" width="100" height="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/edge-2142591-1782242.png" alt="edge" width="100" height="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038850-1720082.png" alt="javascript" width="100" height="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-2251193-1899776.png" alt="mysql" width="100" height="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-1873871-1587035.png" alt="telegram" width="100" height="100">
 </p>
 </br>
 </br>
 </br>
 
+# Проекты:
+> (Плохие, но скоро будут реализованы!)
 
+</br>
+</br>
+</br>
 
-# Contact Me :
+# Свяжитесь со мной 📫:
 
 <p>
- </br>
+Если хотите связаться, напишите мне! 😉
 
+<a href="mailto:I1ce0ne@yandex.ru" style="display: inline-block; background: #4CAF50; color: white; padding: 10px; text-align: center; text-decoration: none; border-radius: 5px;">Написать на почту</a>
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+<a href="https://kwork.ru/user/i1ce0ne" style="display: inline-block; background: #4CAF50; color: white; padding: 10px; text-align: center; text-decoration: none; border-radius: 5px;">Мой фриланс</a>
+</p>
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
-</a>
 
-
-
-<p align="center" >  
+<div align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=I1ce0ne&show_icons=true&theme=radical"/>
   </a>
-  </p>
-
-*************
+</div>
