@@ -48,8 +48,8 @@
 
 # Contacting me 📫
 <p align="center">
-<a href="mailto:I1ce0ne@yandex.ru">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="yandex" width="140" height="50" style="vertical-align:top; margin:6px 4px;">
+<a href="mailto:i1ce0nedev@gmail.com">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="yandex" width="140" height="50" style="vertical-align:top; margin:6px 4px;">
 </a>
 <a href="https://t.me/ICGD1ce0ne">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" width="140" height="50" style="vertical-align:top; margin:6px 4px;">
