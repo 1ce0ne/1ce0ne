@@ -28,7 +28,7 @@
 </br>
 
 
-# Языки и инструменты 🛠️:
+# Languages & Tools 🛠️:
 </br>
 <p align="center">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
@@ -46,6 +46,12 @@
 </br>
 </br>
 
-# Связь со мной 📫
-- 🎉 [Discord](https://discord.com/users/your_user_id_here)
-- 📧 Email: your_email@example.com
+# Contacting me 📫
+<p align="center">
+<a href="mailto:I1ce0ne@yandex.ru">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="yandex" width="140" height="50" style="vertical-align:top; margin:6px 4px;">
+</a>
+<a href="https://t.me/ICGD1ce0ne">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" width="140" height="50" style="vertical-align:top; margin:6px 4px;">
+</a>
+</p>
