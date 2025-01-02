@@ -49,9 +49,9 @@
 # Contacting me 📫
 <p align="center">
 <a href="mailto:i1ce0nedev@gmail.com">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="yandex" width="140" height="50" style="vertical-align:top; margin:6px 4px;">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="yandex" width="130" height="50" style="vertical-align:top; margin:6px 4px;">
 </a>
 <a href="https://t.me/ICGD1ce0ne">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" width="140" height="50" style="vertical-align:top; margin:6px 4px;">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" width="150" height="50" style="vertical-align:top; margin:6px 4px;">
 </a>
 </p>
