@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi, this is Akku-Batt bot 👋</h1>
+    <h1>Hi, I'm I1ce0ne! 👋</h1>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </br>
 
 <div align="center">
-    <h1>About this bot 💬</h1>
+    <h1>About me 💬</h1>
 </div>
 
 <div align="center">
