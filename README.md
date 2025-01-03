@@ -1,4 +1,6 @@
-# Hello,  I'm I1ce0ne! 👋
+<div align="center">
+    <h1>Привет, я I1ce0ne! 👋</h1>
+</div>
 
 <div align="center">
 <img height="400" width="700" alt="anime-gif" align="center" src="https://media.giphy.com/media/VUC9YdLSnKuJy/giphy.gif?cid=ecf05e47tsy244gp74vgujfxjmgfv8lfd5wa21ecgq7ld9yu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -8,8 +10,13 @@
 </br>
 </br>
 
-# About me 💬
-### I am a 16-year-old developer of Desktop applications and Telegram bots from Russia!
+<div align="center">
+    <h1>About me 💬</h1>
+</div>
+
+<div align="center">
+    <h3>I am a 16-year-old developer of Desktop applications and Telegram bots from Russia!</h3>
+</div>
 
 <img height="350" width="500" alt="anime-programming" align="right" src="https://media.giphy.com/media/UYzNgRSTf9X1e/giphy.gif?cid=ecf05e4797zbf8ldz8ectc9riop0r3r665y3nr9qh482dbd3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
@@ -27,8 +34,9 @@
 </br>
 </br>
 
-
-# Languages & Tools 🛠️:
+<div align="center">
+    <h1>Languages & Tools 🛠️:</h1>
+</div>
 </br>
 <p align="center">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
@@ -46,7 +54,9 @@
 </br>
 </br>
 
-# Contacting me 📫
+<div align="center">
+    <h1>Contacting me 📫</h1>
+</div>
 <p align="center">
 <a href="mailto:i1ce0nedev@gmail.com">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="yandex" width="130" height="50" style="vertical-align:top; margin:6px 4px;">
