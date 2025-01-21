@@ -21,8 +21,8 @@
 <img height="350" width="500" alt="anime-programming" align="right" src="https://media.giphy.com/media/UYzNgRSTf9X1e/giphy.gif?cid=ecf05e4797zbf8ldz8ectc9riop0r3r665y3nr9qh482dbd3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ### Learning:
-- 🌐 HTML and CSS
-- 🐍 Python (With libraries MySQL and PyQt6)
+- 🌐 AndroidStudio
+- 🐍 Python (With libraries CustomTkinter and OpenCV)
 
 ### Hobbies: 
 - 🎮 Addicted to games
