@@ -22,11 +22,11 @@
 
 ### Learning:
 - 🌐 AndroidStudio
-- 🐍 Python (With libraries CustomTkinter and OpenCV)
-
+- 🐍 Python
+- ☕️ Java
+  
 ### Hobbies: 
 - 🎮 Addicted to games
-- 🏋️ Powerlifting
 - 🌍 Journeys
 
 </br>
