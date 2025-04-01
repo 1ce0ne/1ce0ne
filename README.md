@@ -56,7 +56,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/docker.png" alt="pc" width="115" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/mobile%402x.png" alt="pc" width="115" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/web%402x.png" alt="pc" width="95" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/kubernetes%402x.png" alt="pc" width="155" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/kubernetes%402x.png" alt="pc" width="150" hight="50">
 </p>
 
 </br>
