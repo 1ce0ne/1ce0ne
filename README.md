@@ -21,7 +21,7 @@
 <img height="350" width="500" alt="anime-programming" align="right" src="https://media.giphy.com/media/UYzNgRSTf9X1e/giphy.gif?cid=ecf05e4797zbf8ldz8ectc9riop0r3r665y3nr9qh482dbd3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ### Learning:
-- 🌐 AndroidStudio
+- 🌐 HTML + CSS
 - 🐍 Python
 - ☕️ Java
   
