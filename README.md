@@ -50,13 +50,12 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/docker.png" alt="pc" width="115" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/kubernetes%402x.png" alt="pc" width="150" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="170" hight="50">
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/mobile%402x.png" alt="pc" width="115" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" alt="desktop" width="125" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/web%402x.png" alt="pc" width="95" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" alt="desktop" width="125" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="170" hight="50">
 </p>
 
 </br>
