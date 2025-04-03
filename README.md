@@ -47,9 +47,9 @@
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" width="125" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="pc" width="180" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/docker.png" alt="pc" width="115" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/kubernetes%402x.png" alt="pc" width="150" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/mobile%402x.png" alt="pc" width="115" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" alt="desktop" width="125" hight="50">
