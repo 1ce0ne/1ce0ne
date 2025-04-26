@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img height="400" width="700" alt="anime-gif" align="center" src="https://media.giphy.com/media/VUC9YdLSnKuJy/giphy.gif?cid=ecf05e47tsy244gp74vgujfxjmgfv8lfd5wa21ecgq7ld9yu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img  alt="anime-gif" align="center" src="https://media.giphy.com/media/VUC9YdLSnKuJy/giphy.gif?cid=ecf05e47tsy244gp74vgujfxjmgfv8lfd5wa21ecgq7ld9yu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 
